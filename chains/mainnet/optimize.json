@@ -1,0 +1,21 @@
+{
+    "chain_name": "ogc_testnet",
+    "api": [
+        "https://api.optimizefoundation.com"
+    ],
+    "rpc": [
+        "https://rpc.optimizefoundation.com"
+    ],
+    "sdk_version": "0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "ogc",
+    "logo": "/logos/dai.svg",
+    "assets": [{
+        "base": "uogc",
+        "symbol": "OGC",
+        "exponent": "6",
+        "coingecko_id": "ogc", 
+        "logo": "/logos/dai.svg"
+    }]
+}
