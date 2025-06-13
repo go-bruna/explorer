@@ -2,9 +2,9 @@
 
 ![Ping Wallet](./public/logo.svg)
 
-<h1>Ping Dashboard</h1>
+<h1>OptimizeFoundation Dashboard</h1>
 
-**Ping Dashboard is not only an explorer but also a wallet and more ... 🛠**
+**OptimizeFoundation Dashboard is not only an explorer but also a wallet and more ... 🛠**
 
 [![version](https://img.shields.io/github/tag/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/releases/latest)
 [![GitHub](https://img.shields.io/github/license/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/blob/master/LICENSE)
@@ -14,10 +14,10 @@
 
 </div>
 
-`Ping Dashboard` is a light explorer for Cosmos-based Blockchains.  https://ping.pub .
+`OptimizeFoundation Dashboard` is a light explorer for Cosmos-based Blockchains.  https://ping.pub .
 
-## What sets Ping Dashboard apart from other explorers?
-**Ping Dashboard** stands out by providing a real-time exploration of blockchain data without relying on caching or pre-processing. It exclusively fetches data from the Cosmos full node via LCD/RPC endpoints, ensuring a truly authentic experience. This approach is referred to as the "Light Explorer."
+## What sets OptimizeFoundation Dashboard apart from other explorers?
+**OptimizeFoundation Dashboard** stands out by providing a real-time exploration of blockchain data without relying on caching or pre-processing. It exclusively fetches data from the Cosmos full node via LCD/RPC endpoints, ensuring a truly authentic experience. This approach is referred to as the "Light Explorer."
 
 ## Are you interested in listing your blockchain on https://ping.pub?
 
